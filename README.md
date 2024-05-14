@@ -17,6 +17,13 @@ $$
 </div>
 
 
+<div style="text-align:center">
+$$
+E=mc^2
+$$
+</div>
+
+
 
 
 
