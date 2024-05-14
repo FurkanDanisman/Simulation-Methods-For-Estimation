@@ -18,4 +18,4 @@ Hence, by taking the integral of 0 to 1, we can calculate the theoretical value 
   I = $\int_{0}^{1}$ 𝜑(𝑥) 𝑑𝑥 = 56.19551…
 
 
-The results of the methods will be both numerically and visually demonstrated and explained [here.](https://furkandanisman.github.io/Simulation-Methods-For-Estimation/Code/Simulation-Methods-For-Estimation.html) 
+The results of the methods will be both numerically and visually demonstrated and explained [here.](https://furkandanisman.github.io/Simulation-Methods-For-Estimation/Code/Monte-Carlo-Integration.html) 
