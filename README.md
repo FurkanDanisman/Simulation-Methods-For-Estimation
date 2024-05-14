@@ -10,19 +10,8 @@ In this study, by implementing the following simulation methods:
 
 With both optimal and non-optimal approaches, the following function was used to estimate I.
 
-<div style="text-align:center">
-$$
-$𝜑(𝑥) = (4 − 𝑥^2)𝑒^{3−𝑥^2}$  ; $𝑥 ∈ [0,1]$
-$$
-</div>
 
-<p align="center">
-// Your content
-</p>
-
-
-
-
+    $𝜑(𝑥) = (4 − 𝑥^2)𝑒^{3−𝑥^2}$  ; $𝑥 ∈ [0,1]$
 
 Hence, by taking the integral of 0 to 1, we can calculate the theoretical value of I, which is:
 
