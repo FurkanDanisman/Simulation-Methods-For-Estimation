@@ -16,12 +16,9 @@ $𝜑(𝑥) = (4 − 𝑥^2)𝑒^{3−𝑥^2}$  ; $𝑥 ∈ [0,1]$
 $$
 </div>
 
-
-<div style="text-align:center">
-$$
-E=mc^2
-$$
-</div>
+<p align="center">
+// Your content
+</p>
 
 
 
